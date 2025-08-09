@@ -33,8 +33,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoThanatus&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoThanatus&layout=compact&theme=radical)
+![NeoThanatus's Stats](https://github-readme-stats.vercel.app/api?username=NeoThanatus&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![NeoThanatus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoThanatus&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
