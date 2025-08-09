@@ -1,7 +1,5 @@
 # Hi there 👋
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+---
 ## I'm Ranulfo Reis — Full Stack Developer
 
 - 🎯 Passionate about building efficient and scalable applications.
